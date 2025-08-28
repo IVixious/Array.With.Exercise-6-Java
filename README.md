@@ -1,4 +1,4 @@
-# Array.With.Exercise-6-Java
+# Array.With.Exercise-6-Bank-Java
 Understanding the coding technique of Arrays & implementing bank system  - Refresh! 🌿
 
 I took my past university minor assignment & mini project on brushing up memory skills of Java and understanding the concept once more. 💫
