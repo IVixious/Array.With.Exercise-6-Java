@@ -14,7 +14,7 @@ public class ArrayExample {
             System.out.println("Invalid index entered");
         }
 
-        // Finding the largest number
+        // Finding the largest number based on user input (10)
         int largest = num[0];
         for (int i = 1; i < num.length; i++) {
             if (num[i] > largest) {
@@ -26,3 +26,4 @@ public class ArrayExample {
 
     }
 }
+
